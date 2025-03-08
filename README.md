@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/cb082924-9f58-4a41-a497-2719a7ac6f08" alt="Shalini Banner" height ="300px",width="700px">
 </div>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&lines=Hi,+I'm+ShaliniKannan!!!" alt="Typing SVG">
 </p>
@@ -12,9 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&lines=FSD+%7C+AIML+%7C+DS+%7C+GENAI;Hackathon+Enthusiast+💪" alt="Typing SVG">
 </p>
 
-
 ## 💻 T𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50" width="80" alt="Python" />
@@ -33,18 +29,22 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" width="80" alt="vscode" />
 </p>
 
----
+## 📊 GitHub Stats  
 
+<div align="center">
+  <a href="https://github.com/shalinikannan23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalinikannan23&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  </a>
+  <a href="https://github.com/shalinikannan23">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikannan23&theme=radical&hide_border=true" width="48%"/>
+  </a>
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-ml&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="500" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-ml&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages">
-</p>
-
----
+<div align="center">
+  <a href="https://github.com/shalinikannan23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikannan23&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  </a>
+</div>
 
 ## 🚀 C𝕠𝕕𝕚𝕟𝕘 ℙ𝕣𝕠𝕗𝕚𝕝𝕖𝕤:
 
@@ -60,8 +60,12 @@
 
 
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shalinikannan23" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"></a>
-  <a href="https://github.com/shalinikannan23" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shalinikannan23" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"></a>
+  <a href="https://github.com/shalinikannan23" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"></a>
+  <a href="mailto:shalinikannan2307@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail">
+</a>
+
 </p>
