@@ -73,6 +73,42 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider"/>
 </div>
 
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80"><br>
+      <b>IBM Z Datathon</b><br>
+      🥇 1st Place (Chennai-in-person)<br>
+      <i>Health Hunch</i><br>
+      Chennai, 2023
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"><br>
+      <b>SRM Datathon</b><br>
+      🥇 1st Place<br>
+      <i>MedAI Chatbot</i><br>
+      IITM RP, 2024
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80"><br>
+      <b>IIIT Hackathon</b><br>
+      🏅 Top 20 Finalist<br>
+      <i>Cardiovascular Risk Score Estimator</i><br>
+      IIITM, 2024
+    </td>
+  </tr>
+</table>
+
+
+
+
+</div>
+
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" alt="Connect"/> **Connect With Me!!!**
 
 <div align="center">
@@ -131,6 +167,32 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider"/>
 </div>
 
-## 🐍 GitHub Activity Snake
+## 🐍 GitHub Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shalinikannan23/shalinikannan23/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- GITHUB STATS SECTION (Stylized and Unique) -->
+
+<h2 align="center">🚀 GitHub Power Panel</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalinikannan23&show_icons=true&theme=tokyonight&hide_border=true&custom_title=🔥+My+Dev+Stats" width="410"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinikannan23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="410"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shalinikannan23&theme=algolia&no-frame=true&margin-w=15&row=1&column=7" />
+</p>
+
+
+<!-- LANGUAGE BAR WITH AESTHETIC -->
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikannan23&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="400"/>
+</p>
