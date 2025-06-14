@@ -134,4 +134,3 @@
 ## 🐍 GitHub Activity Snake
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shalinikannan23/shalinikannan23/output/github-contribution-grid-snake.svg)
-
