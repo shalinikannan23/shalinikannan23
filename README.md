@@ -88,14 +88,14 @@
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"><br>
-      <b>SRM Datathon</b><br>
+      <b>SRMIST Datathon</b><br>
       🥇 1st Place<br>
       <i>MedAI Chatbot</i><br>
-      IITM RP, 2024
+      Chennai , 2024
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80"><br>
-      <b>IIIT Hackathon</b><br>
+      <b>IIITM Hackathon</b><br>
       🏅 Top 20 Finalist<br>
       <i>Cardiovascular Risk Score Estimator</i><br>
       IIITM, 2024
