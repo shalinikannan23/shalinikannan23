@@ -119,7 +119,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shalinikannan23" target="_blank">
+  <a href="https://www.linkedin.com/in/shalini-kannan23/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=A020F0" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/shalinikannan23" target="_blank">
@@ -129,6 +129,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=A020F0" alt="Gmail"/>
   </a>
 </div>
+
 
 
 <div align="center">
